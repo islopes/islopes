@@ -42,9 +42,4 @@ Acredito que a tecnologia tem o poder de transformar vidas e negócios, e meu ob
 
 
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=islopes&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islopes&layout=compact&theme=tokyonight" />
-</p>
